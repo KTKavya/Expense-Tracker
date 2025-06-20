@@ -17,7 +17,7 @@ This tool reads expenses from a CSV file and allows users to:
 # 1.  Clone the Repository
 - ``bash
 - git clone https://github.com/yourusername/expense-tracker.git
-- cd expense
+- cd expense-tracker
 
 # 2.Install Dependencies
 * pip install pandas 
